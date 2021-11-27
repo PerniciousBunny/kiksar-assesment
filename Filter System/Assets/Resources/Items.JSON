@@ -28,6 +28,48 @@
             "Url":"https://m.media-amazon.com/images/I/71L7+iPSJwL._UL1500_.jpg",
             "SubCategory":"Male",
             "Price":2000
+        },
+        {
+            "Name":"Skechers",
+            "Category":"Shoes",
+            "Url":"https://m.media-amazon.com/images/I/81IL31weO3S._UL1500_.jpg",
+            "SubCategory":"Female",
+            "Price":2000
+        },
+        {
+            "Name":"Citizen",
+            "Category":"Watches",
+            "Url":"https://m.media-amazon.com/images/I/916DbfX-AiL._UL1500_.jpg",
+            "SubCategory":"Male",
+            "Price":2000
+        },
+        {
+            "Name":"Daniel wellington",
+            "Category":"Watches",
+            "Url":"https://m.media-amazon.com/images/I/71jjUXzX9GL._UL1400_.jpg",
+            "SubCategory":"Female",
+            "Price":2000
+        },
+        {
+            "Name":"Titan",
+            "Category":"Watches",
+            "Url":"https://m.media-amazon.com/images/I/61cyyP5RfcL._UL1500_.jpg",
+            "SubCategory":"Female",
+            "Price":2000
+        },
+        {
+            "Name":"Levis",
+            "Category":"Clothing",
+            "Url":"https://m.media-amazon.com/images/I/81KJu-9LOtS._UL1500_.jpg",
+            "SubCategory":"Male",
+            "Price":2000
+        },
+        {
+            "Name":"Saree",
+            "Category":"Clothing",
+            "Url":"https://m.media-amazon.com/images/I/91PYrU3gnTL._UL1500_.jpg",
+            "SubCategory":"Female",
+            "Price":2000
         }
     ]
 }

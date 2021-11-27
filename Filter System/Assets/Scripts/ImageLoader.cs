@@ -7,13 +7,18 @@ using UnityEngine.Networking;
 public class ImageLoader: MonoBehaviour
 {
     Image image;
-    void Start()
+    public Sprite placeholder;
+    void Awake()
     {
         image = gameObject.transform.GetChild(0).GetComponent<Image>();
     }
     public void updateImage(string url)
     {
         StartCoroutine(DownloadImage(url));
+    }
+    public void resetImage()
+    {
+        image.overrideSprite = placeholder;
     }
     IEnumerator DownloadImage(string MediaUrl)
     {

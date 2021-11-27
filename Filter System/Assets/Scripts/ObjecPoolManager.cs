@@ -50,6 +50,7 @@ public class ObjecPoolManager : MonoBehaviour
     {
         foreach (GameObject item in poolDictionary["Item"])
         {
+            item.GetComponent<ImageLoader>().resetImage();
             item.SetActive(false);
         }
     }
